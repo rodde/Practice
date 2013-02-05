@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ClassLibrary1
+namespace Common
 {
-    public class Class1
+    public class Constants
     {
+        enum ELEMENTS { Fire, Water, Earth, Air };
     }
 }
